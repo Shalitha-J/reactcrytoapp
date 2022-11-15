@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactcrytoapp.git/static/css/main.f5d94989.css",
+    "main.js": "/reactcrytoapp.git/static/js/main.cec12a81.js",
+    "index.html": "/reactcrytoapp.git/index.html",
+    "main.f5d94989.css.map": "/reactcrytoapp.git/static/css/main.f5d94989.css.map",
+    "main.cec12a81.js.map": "/reactcrytoapp.git/static/js/main.cec12a81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5d94989.css",
+    "static/js/main.cec12a81.js"
+  ]
+}
